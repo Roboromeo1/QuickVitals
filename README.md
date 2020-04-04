@@ -1,6 +1,6 @@
 # Quick Vitals
 Prototype app demo made with flutter 
-![github-video](https://github.com/Roboromeo1/QuickVitals/blob/master/20200405_021147_edited.mp4)
+!(https://github.com/Roboromeo1/QuickVitals/blob/master/20200405_021147_edited.mp4)
 
 Porject Design 
 https://github.com/Roboromeo1/QuickVitals/blob/master/project%20thumbnail.jpg
