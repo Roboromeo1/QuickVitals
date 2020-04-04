@@ -1,5 +1,5 @@
 # Quick Vitals
-This repositary includes The website , api and flutte prototype  app files 
+This repositary includes The website , api and flutte prototype  app files <br>
 Prototype app demo made with flutter 
 !(https://github.com/Roboromeo1/QuickVitals/blob/master/20200405_021147_edited.mp4)
 
