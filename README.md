@@ -1,6 +1,11 @@
 # Quick Vitals
+Prototype app demo made with flutter 
+https://github.com/Roboromeo1/QuickVitals/blob/master/20200405_021147_edited.mp4
 
-A new Flutter application.
+Porject Design 
+https://github.com/Roboromeo1/QuickVitals/blob/master/project%20thumbnail.jpg
+
+https://github.com/Roboromeo1/QuickVitals/blob/master/simplified%20flow.jpg
 
 ## Inspiration
 With the amount of patients that has to be treated in the hospital during crisis, there is a huge pressure on medical workers to prioritise patients and give them proper care and medication.
